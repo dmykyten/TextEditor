@@ -8,3 +8,16 @@ C:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.c
 C:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
 C:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
 C:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.mainForm.resources
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Projects\TextEditor\TextEditor\bin\Debug\NLog.config
+D:\Projects\TextEditor\TextEditor\bin\Debug\NLog.dll
+D:\Projects\TextEditor\TextEditor\bin\Debug\NLog.xml
+D:\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
